@@ -1,0 +1,3 @@
+[submodule "CH32V003F4P6"]
+	path = CH32V003F4P6
+	url = git@github.com:viys/CH32V003F4P6.git
